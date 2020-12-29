@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "prestart": "npm run build_lib",
-    "postinstall": "npm run build_lib",
+    "postinstall": "ngcc --properties es2015 browser module main --first-only --create-ivy-entry-points",
     "build_lib": "ng build ngx-connection-service",
     "npm_pack": "cd dist/ngx-connection-service && npm pack",
     "package": "npm run build_lib && npm run npm_pack",
