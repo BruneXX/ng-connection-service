@@ -42,11 +42,3 @@ export class AppComponent {
 }
 
 ```
-
-## Demo
-
-[Working demo](https://ngx-connection-service-demo.surge.sh/)
-
-## License
-
-[MIT License](https://github.com/BruneXX/ngx-connection-service/blob/master/LICENSE) © Bruno Binci
