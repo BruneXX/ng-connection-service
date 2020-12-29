@@ -7,7 +7,7 @@
 You can get it on npm.
 
 ```
-npm install ngx-connection-service --save
+npm install ngxc-connection-service --save
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ npm install ngx-connection-service --save
 
 ```ts
 import { Component } from '@angular/core';
-import { ConnectionService } from 'ngx-connection-service';
+import { ConnectionService } from 'ngxc-connection-service';
 
 @Component({
   selector: 'app-root',
@@ -86,7 +86,7 @@ import {BrowserModule} from '@angular/platform-browser';
 import {NgModule} from '@angular/core';
 
 import {AppComponent} from './app.component';
-import {ConnectionServiceModule, ConnectionServiceOptions, ConnectionServiceOptionsToken} from 'ngx-connection-service';
+import {ConnectionServiceModule, ConnectionServiceOptions, ConnectionServiceOptionsToken} from 'ngxc-connection-service';
 
 @NgModule({
   declarations: [

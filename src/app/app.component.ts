@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {ConnectionService} from 'ngx-connection-service';
+import {ConnectionService} from 'ngxc-connection-service';
 
 @Component({
   selector: 'app-root',

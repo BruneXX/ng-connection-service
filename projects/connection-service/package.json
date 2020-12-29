@@ -1,10 +1,10 @@
 {
-  "name": "ngx-connection-service",
+  "name": "ngxc-connection-service",
   "version": "1.0.0",
   "description": "Detects active internet connection in Angular application.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BruneXX/ngx-connection-service"
+    "url": "https://github.com/BruneXX/ngxc-connection-service"
   },
   "keywords": [
     "detect",
@@ -17,9 +17,9 @@
   "author": "Bruno Binci",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BruneXX/ngx-connection-service/issues"
+    "url": "https://github.com/BruneXX/ngxc-connection-service/issues"
   },
-  "homepage": "https://github.com/BruneXX/ngx-connection-service#readme",
+  "homepage": "https://github.com/BruneXX/ngxc-connection-service#readme",
   "dependencies": {
     "tslib": "^2.0.0"
   },

@@ -18,11 +18,11 @@
       "dom"
     ],
     "paths": {
-      "ngx-connection-service": [
-        "dist/ngx-connection-service"
+      "ngxc-connection-service": [
+        "dist/ngxc-connection-service"
       ],
-      "ngx-connection-service/*": [
-        "dist/ngx-connection-service/*"
+      "ngxc-connection-service/*": [
+        "dist/ngxc-connection-service/*"
       ]
     }
   }

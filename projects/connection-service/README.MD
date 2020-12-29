@@ -7,7 +7,7 @@
 You can get it on npm.
 
 ```
-npm install ngx-connection-service --save
+npm install ngxc-connection-service --save
 ```
 
 ## Usage

@@ -128,7 +128,7 @@
         }
       }
     },
-    "ngx-connection-service": {
+    "ngxc-connection-service": {
       "root": "projects/connection-service",
       "sourceRoot": "projects/connection-service/src",
       "projectType": "library",
