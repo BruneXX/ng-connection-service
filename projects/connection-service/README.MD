@@ -7,7 +7,7 @@
 You can get it on npm.
 
 ```
-npm install ng-connection-service --save
+npm install ngx-connection-service --save
 ```
 
 ## Usage
@@ -45,8 +45,8 @@ export class AppComponent {
 
 ## Demo
 
-[Working demo](https://ng-connection-service-demo.surge.sh/)
+[Working demo](https://ngx-connection-service-demo.surge.sh/)
 
 ## License
 
-[MIT License](https://github.com/ultrasonicsoft/ng-connection-service/blob/master/LICENSE) © Balram Chavan
+[MIT License](https://github.com/BruneXX/ngx-connection-service/blob/master/LICENSE) © Balram Chavan

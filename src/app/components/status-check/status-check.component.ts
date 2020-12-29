@@ -1,10 +1,10 @@
 import {Component} from '@angular/core';
-import {ConnectionState, ConnectionService} from 'ng-connection-service';
+import {ConnectionState, ConnectionService} from 'ngx-connection-service';
 
 @Component({
   selector: 'app-status-check',
   templateUrl: './status-check.component.html',
-  styleUrls: ['./status-check.component.css']
+  styleUrls: ['./status-check.component.scss']
 })
 export class StatusCheckComponent {
 

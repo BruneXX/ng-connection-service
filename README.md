@@ -7,7 +7,7 @@
 You can get it on npm.
 
 ```
-npm install ng-connection-service --save
+npm install ngx-connection-service --save
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ npm install ng-connection-service --save
 
 ```ts
 import { Component } from '@angular/core';
-import { ConnectionService } from 'ng-connection-service';
+import { ConnectionService } from 'ngx-connection-service';
 
 @Component({
   selector: 'app-root',
@@ -86,7 +86,7 @@ import {BrowserModule} from '@angular/platform-browser';
 import {NgModule} from '@angular/core';
 
 import {AppComponent} from './app.component';
-import {ConnectionServiceModule, ConnectionServiceOptions, ConnectionServiceOptionsToken} from 'ng-connection-service';
+import {ConnectionServiceModule, ConnectionServiceOptions, ConnectionServiceOptionsToken} from 'ngx-connection-service';
 
 @NgModule({
   declarations: [
@@ -116,8 +116,8 @@ export class AppModule {
 
 ## Demo
 
-[Working demo](https://ng-connection-service-demo.surge.sh/)
+[Working demo](https://ngx-connection-service-demo.surge.sh/)
 
 ## License
 
-[MIT License](https://github.com/ultrasonicsoft/ng-connection-service/blob/master/LICENSE) © Balram Chavan
+[MIT License](https://github.com/BruneXX/ngx-connection-service/blob/master/LICENSE) © Balram Chavan
