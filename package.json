@@ -55,7 +55,7 @@
     "typescript": "~3.5.3",
     "@types/node": "^13.1.6",
     "ng-packagr": "^5.7.1",
-    "tsickle": "0.38.0"
+    "tsickle": "0.39.1"
   },
   "snyk": true
 }
