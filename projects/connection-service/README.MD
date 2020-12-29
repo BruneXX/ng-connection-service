@@ -49,4 +49,4 @@ export class AppComponent {
 
 ## License
 
-[MIT License](https://github.com/BruneXX/ngx-connection-service/blob/master/LICENSE) © Balram Chavan
+[MIT License](https://github.com/BruneXX/ngx-connection-service/blob/master/LICENSE) © Bruno Binci

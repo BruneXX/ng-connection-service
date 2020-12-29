@@ -14,7 +14,7 @@
     "service",
     "HTTP"
   ],
-  "author": "Balram Chavan",
+  "author": "Bruno Binci",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/BruneXX/ngx-connection-service/issues"
