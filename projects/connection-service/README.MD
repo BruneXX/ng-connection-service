@@ -17,7 +17,7 @@ npm install ngxc-connection-service --save
 
 ```ts
 import { Component } from '@angular/core';
-import { ConnectionService } from 'connection-service';
+import { ConnectionService } from 'ngxc-connection-service';
 
 @Component({
   selector: 'app-root',

@@ -1,5 +1,5 @@
 {
-  "name": "ngx-connection-monitor",
+  "name": "ngxc-connection-monitor",
   "version": "1.0.0",
   "scripts": {
     "ng": "ng",
