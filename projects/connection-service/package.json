@@ -20,6 +20,9 @@
     "url": "https://github.com/BruneXX/ngx-connection-service/issues"
   },
   "homepage": "https://github.com/BruneXX/ngx-connection-service#readme",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
   "peerDependencies": {
     "lodash": ">=4",
     "@angular/common": ">=11",
